@@ -29,7 +29,7 @@ layout: default
     </p>
   </td>
   <td style="padding:2% 0% 1% 1%;width:38%;max-width:38%">
-    <img style="width:100%;max-width:100%" alt="profile photo" src="fig/ryr.jpg">
+    <img style="width:75%;max-width:75%" alt="profile photo" src="fig/ryr.jpg">
   </td>
 </tr>
 </tbody>
