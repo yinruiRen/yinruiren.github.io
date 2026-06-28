@@ -5,7 +5,10 @@ layout: default
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
 <tbody>
 <tr style="padding:0px">
-  <td style="padding:1% 1% 1% 0%;width:62%;vertical-align:middle">
+  <td style="padding:2% 1% 1% 0%;width:38%;max-width:38%;vertical-align:middle">
+    <img style="width:75%;max-width:75%" alt="profile photo" src="fig/ryr.jpg">
+  </td>
+  <td style="padding:1% 0% 1% 1%;width:62%;vertical-align:middle">
     <h1>
       Yinruiren (任寅瑞)
     </h1>
@@ -27,9 +30,6 @@ layout: default
       <a target="_blank" href="https://github.com/yinruiRen">GitHub</a> &nbsp;/&nbsp;
       <a target="_blank" href="">Google Scholar</a>
     </p>
-  </td>
-  <td style="padding:2% 0% 1% 1%;width:38%;max-width:38%">
-    <img style="width:75%;max-width:75%" alt="profile photo" src="fig/ryr.jpg">
   </td>
 </tr>
 </tbody>
@@ -78,7 +78,7 @@ layout: default
   </td>
   <td style="padding:1%;width:80%;max-width:80%">
     <p>
-      <strong>Sat2City: 3D City Generation from A Single Satellite Image with Cascaded Latent Diffusion</strong>
+      <strong>Holo360D: A Large-Scale Real-World Dataset with Continuous Trajectories for Advancing Panoramic 3D Reconstruction and Beyond</strong>
       <br>
       <a target="_blank" href="">Jing Ou*</a>,
       <a target="_blank" href="https://scholar.google.com/citations?hl=en&user=q1FcZzIAAAAJ">Zidong Cao*</a>,
