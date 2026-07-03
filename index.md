@@ -43,6 +43,34 @@ layout: default
 
 <tr>
   <td style="padding:1%;width:20%;max-width:20%;vertical-align:middle">
+    <img style="width:100%;max-width:100%" alt="paper teaser" src="fig/sat2cityv2.png">
+  </td>
+  <td style="padding:1%;width:80%;max-width:80%">
+    <p>
+      <strong>Sat2City v2: Native 3D City Asset Generation from a Single Satellite Image</strong>
+      <br>
+      <a target="_blank" href="https://scholar.google.com/citations?hl=en&user=rUGoZaMAAAAJ">Tongyan Hua*</a>,
+      <a target="_blank" href="https://scholar.google.com/citations?user=QRoBV_UAAAAJ&hl=en&oi=ao">Dongli Wu*</a>,
+      <a target="_blank" href="https://scholar.google.com/citations?user=VykLdaMAAAAJ&hl=en&oi=ao">Jinjing Zhu</a>,
+      <strong>Yinrui Ren*</strong>,
+      <a target="_blank" href="">Zhongcheng Hong</a>,
+      <a target="_blank" href="https://scholar.google.com/citations?user=n7j4bJUAAAAJ&hl=en">Ying-cong Chen</a>,
+      <a target="_blank" href="https://scholar.google.com/citations?hl=en&user=cVDF1tkAAAAJ">Hui Xiong</a>,
+      <a target="_blank" href="https://scholar.google.com/citations?user=SE267o4AAAAJ&hl=en&oi=ao">Wufan Zhao</a>.
+      <br>
+      arxiv &nbsp;/&nbsp;
+      <a target="_blank" href="https://arxiv.org/pdf/2606.24138">Paper</a> &nbsp;/&nbsp;
+      <a target="_blank" href="https://ai4city-hkust.github.io/Sat2City-v2/">Project</a>
+    </p>
+    <p>
+      Sat2City v2 achieves state-of-the-art appearance-controllable 3D city generation from single satellite images by leveraging a pretrained structured-latent foundation model.
+    </p>
+  </td>
+</tr>
+
+
+<tr>
+  <td style="padding:1%;width:20%;max-width:20%;vertical-align:middle">
     <img style="width:100%;max-width:100%" alt="paper teaser" src="fig/EventVGGT.png">
   </td>
   <td style="padding:1%;width:80%;max-width:80%">
@@ -63,7 +91,7 @@ layout: default
       <br>
       ECCV 2026 &nbsp;/&nbsp;
       <a target="_blank" href="https://arxiv.org/pdf/2603.09385">Paper</a> &nbsp;/&nbsp;
-      <a target="_blank" href="">Project</a>
+      <a target="_blank" href="https://github.com/yinruiRen/EventVGGT">GitHub</a>
     </p>
     <p>
       EventVGGT is an annotation-free framework that distills spatio-temporal priors from VGGT for temporally consistent event-based depth estimation.
