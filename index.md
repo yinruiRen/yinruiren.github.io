@@ -13,8 +13,7 @@ layout: default
       Yinruiren (任寅瑞)
     </h1>
     <p>
-      I am now a Ph.D. student at the <a target="_blank" href="https://sysu-sail.net/">Spatial Artificial Intelligence Lab (SAIL)</a> at <a target="_blank" href="https://www.sysu.edu.cn/">Sun Yat-sen University</a>.,
-      under the supervision of Prof. <a target="_blank" href="https://scholar.google.com/citations?user=WQRNvdsAAAAJ&hl=en">Yulan Guo</a>.
+      I am actively seeking new Ph.D. opportunities starting in <strong>2027</strong>.
       My current research interests focus on world models, with a particular emphasis on physics-constrained approaches.
     </p>
     <p>
@@ -25,7 +24,7 @@ layout: default
       where I had the privilege of being advised by Prof. <a target="_blank" href="https://scholar.google.com/citations?user=SE267o4AAAAJ&hl=en">Wufan Zhao</a>.
     </p>
     <p style="text-align:center">
-      <a target="_blank" href="mailto:conorren001@gmail.com">Email</a> &nbsp;/&nbsp;
+      <a target="_blank" href="mailto:yinruiren001@gmail.com">Email</a> &nbsp;/&nbsp;
       <a target="_blank" href="https://github.com/yinruiRen">GitHub</a> &nbsp;/&nbsp;
       <a target="_blank" href="https://scholar.google.com/citations?user=BvKUWfMAAAAJ&hl=en">Google Scholar</a>
     </p>
