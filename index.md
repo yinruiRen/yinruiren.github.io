@@ -50,7 +50,7 @@ layout: default
       <a target="_blank" href="https://scholar.google.com/citations?hl=en&user=rUGoZaMAAAAJ">Tongyan Hua*</a>,
       <a target="_blank" href="https://scholar.google.com/citations?user=QRoBV_UAAAAJ&hl=en&oi=ao">Dongli Wu*</a>,
       <a target="_blank" href="https://scholar.google.com/citations?user=VykLdaMAAAAJ&hl=en&oi=ao">Jinjing Zhu</a>,
-      <strong>Yinrui Ren*</strong>,
+      <strong>Yinrui Ren</strong>,
       <a target="_blank" href="">Zhongcheng Hong</a>,
       <a target="_blank" href="https://scholar.google.com/citations?user=n7j4bJUAAAAJ&hl=en">Ying-cong Chen</a>,
       <a target="_blank" href="https://scholar.google.com/citations?hl=en&user=cVDF1tkAAAAJ">Hui Xiong</a>,
